@@ -1,0 +1,6 @@
+Alexis;Arellano;Ajax;Ontario;L1L2H2;
+John;Smith;Vancouver;British Columbia;5H52K2;
+Jane;Doe;Montreal;Quebec;2P2P2P;
+Rob;MacDonald;Edmonton;Alberta;9K9K9K;
+Jennifer;Gray;Yellowknife;North West Territories;9K9K9K;
+UPDATE;Bourne;Montreal;Quebec;7H77H7;
